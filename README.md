@@ -1,4 +1,4 @@
-# JenkinsDockerInDocker
+# Jenkins Docker in Docker
 Set up a Jenkins instance Docker in Docker.
 
 Do you suffer from your Jenkins container being able to build and push images to a Docker repository?
